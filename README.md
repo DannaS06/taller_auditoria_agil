@@ -1,6 +1,7 @@
 # Taller: Auditoría de calidad de un equipo ágil
 
 Curso: Estándares y Métricas de Calidad de Software · Tema: cumplimiento de estándares en Scrum, Kanban, XP y DevOps.
+Integrantes: Natalia Valentina Omaña Pérez y Danna Lucía Silva Reyes.
 
 ## Caso
 Una startup desarrolla una app de citas médicas. Entrega cada 2 semanas, tiene defectos que llegan a producción, pruebas manuales y despliega los viernes. Su equipo debe demostrar calidad con evidencia verificable.
